@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **nest.js, typescript, docker**
 
-- 📝 I regularly write articles on [https://medium.com/@andyjm7739](https://medium.com/@andyjm7739)
+- 📝 I regularly write articles on [https://velog.io/@devel-history/posts](https://velog.io/@devel-history/posts)
 
 - 💬 Ask me about **nest.js, javascript, typescript**
 
