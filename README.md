@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Cori1304-Seong</h1>
 <h3 align="center">A junior backend developer from Korea</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cori1304-seong" alt="cori1304-seong" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cori1304-seong" alt="cori1304-seong" /></a> </p> -->
 
-- 🔭 I’m currently working on **SmallQu**
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=Cori1304-Seong&show_icons=true)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cori1304-Seong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
 
-- 🌱 I’m currently learning **nest.js, typescript, docker**
+
+- 🔭 I’m currently working on **8bit**
+
+- 🌱 I’m currently learning **java, spring, docker**
 
 - 📝 I regularly write articles on [https://velog.io/@devel-history/posts](https://velog.io/@devel-history/posts)
 
-- 💬 Ask me about **nest.js, javascript, typescript**
+- 💬 Ask me about **java, spring, docker**
 
 - 📫 How to reach me **andyjm7739@gmail.com**
 
